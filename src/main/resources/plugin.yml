@@ -1,0 +1,7 @@
+name: XYZsWithSia
+version: '${project.version}'
+main: me.sialim.xyzswithsia.XYZsWithSia
+api-version: '1.20'
+commands:
+  abcsort:
+    usage: /abcsort
